@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Юрий\\Desktop\\Учеба\\Практика по C#\\CsharpHomework2\\CsharpHomework2.csproj",
+      "projectUniqueName": "C:\\Users\\Юрий\\Desktop\\Учеба\\Практика по C#\\CsharpHomework2\\Hw13\\CsharpHomework2.csproj",
       "projectName": "CsharpHomework2",
-      "projectPath": "C:\\Users\\Юрий\\Desktop\\Учеба\\Практика по C#\\CsharpHomework2\\CsharpHomework2.csproj",
+      "projectPath": "C:\\Users\\Юрий\\Desktop\\Учеба\\Практика по C#\\CsharpHomework2\\Hw13\\CsharpHomework2.csproj",
       "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Юрий\\Desktop\\Учеба\\Практика по C#\\CsharpHomework2\\obj\\",
+      "outputPath": "C:\\Users\\Юрий\\Desktop\\Учеба\\Практика по C#\\CsharpHomework2\\Hw13\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
